@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<style>
+    body{
+      transition: background 1s ease-in-out;
+      background: linear-gradient(to right, #f05208, #ffffff,rgb(43, 255, 0));  
+    }
+
+  .navbar{
+    background: linear-gradient(to right, #ff0707, #0004ff); 
+      color: #fff;
+text-decoration: none;
+   font-size: x-large;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 23px;
+    margin-top: -13px;
+    width:auto;
+    margin-left: -13px;
+  } 
+  .navbar-brand{
+    text-decoration: none;
+    color: #fff;
+  } 
+  .card{
+ align-content: center;
+ margin-left: 133px;
+ margin-top: 233px;
+  }
+  .card:hover{
+    transform: scale(1.1);
+     transition-duration: 0.3s;
+     transition-delay: 0.2ms;
+   
+  }
+  .card2{
+ align-content: center;
+ margin-left: 583px;
+ margin-top: -210px;
+border-radius: 13px;
+  }
+  .card2:hover{
+    transform: scale(1.1);
+     transition-duration: 0.3s;
+     transition-delay: 0.2ms;
+  }
+  .card3{
+    align-content: center;
+ margin-left: 1023px;
+ margin-top: -210px;
+  }
+  .card3:hover{
+    transform: scale(1.1);
+     transition-duration: 0.3s;
+     transition-delay: 0.2ms;
+  }
+.card-body{
+    color: #000000;
+}
+.card31{
+  align-content: center;
+ margin-left: 1023px;
+ margin-top: -804px;
+}
+.card31:hover{
+    transform: scale(1.1);
+     transition-duration: 0.3s;
+     transition-delay: 0.2ms;
+  }
+.btn{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px  #0091ff;
+    background-color: #006affda;
+    border-radius: 7px;
+    max-width: max-content;
+    padding: 6px;
+}
+.btn:hover{
+    color: #ffffff;
+    background-color: #0091ff;
+}
+.card-img-top{
+    width: 223px;
+    border-radius: 23px;
+}
+.card-img-top2{
+    margin-top: -923px;
+    height: 173px;
+
+}
+h5{
+    font-size: 23px;
+}
+.card-img-top3{
+    margin-top: -923px;
+    height: 173px;
+    border-radius: 13px;
+
+}
+
+.body1
+{
+	background-color: black;
+	color: white;
+	height: 28px;
+}
+
+.body1 li
+{
+	display: inline;
+	margin-right: 30px;
+}
+
+
+.bottom-bar
+{
+	height: 28px;
+	background-color: black;
+	color: rgb(255, 255, 255);
+  margin-top: 900px;
+}
+
+.social-icons i
+{
+	color: white;
+}
+
+.social-icons li
+{
+	display: inline-block;
+	padding: 5px;
+	font-size: 35px;
+}
+
+a
+{
+  text-decoration: none;
+}
+a:hover
+{
+  color: #f18930;
+}
+
+.social-icons i:hover
+{
+  color: #f18930;
+}
+
+.bottom-bar p
+{
+	text-align: center;
+}
+
+
+
+</style>
+<body>
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="https://imgs.search.brave.com/9KoepSvuYInLKmBxG_QOjCr98ch48RbCbe7RhWdwY20/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jcmFj/a3UuaW4vbGF0ZXN0/LWdvdnQtam9icy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/Ni9SYWphc3RoYW4t/UG9saWNlLUxvZ28u/anBn" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+            Rajasthan Police
+          </a>
+        </div>
+      </nav>
+      <div class="body1"> <marquee>
+        <li>Police Control Room : 112/100</li>
+        <li>Garima Helpline : 1090</li>
+        <li>Child Helpline : 1098</li>
+        <li>Emergency No. : 112/108</li>
+        <li>CyberCrime Helpline : 1930</li>
+        <li>State Centralized call Center no. : 18001806127</li> </marquee>
+    </div>
+      
+
+    <script src="http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
+
+    <script>
+    
+      function loadGoogleTranslate()
+    
+      {
+    
+        new google.translate.TranslateElement("myid")
+    
+      }
+    
+    </script>
+    
+    <div id="myid">Choose Language</div>
+
+
+      <div class="card" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/dKwLFLwd-VJLlXNF4lkzb8YPEUXHkH6Mt0WcbTdA7_Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzQyLzA5Lzk4/LzM2MF9GXzQyMDk5/ODkxXzZTejlnNzBF/b0YyQVFob2dEWmlG/RTlVUTJuY2FuMVBr/LmpwZw" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">How to Register FIR</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="https://www.youtube.com/watch?v=oBGmSe3XR9w&pp=ygUdaG93IHRvIHJlZ2lzdGVyIGZpciByYWphc3RoYW4%3D" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+      <div class="card2" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/zmu-elezsOzsMLDh0NFvXFPAT8ZikKDPkD_KgEuOEcI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGhlbm91bnBy/b2plY3QuY29tL3Bu/Zy8xOTUyMzgtMjAw/LnBuZw" class="card-img-top2" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Chat</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/dKwLFLwd-VJLlXNF4lkzb8YPEUXHkH6Mt0WcbTdA7_Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzQyLzA5Lzk4/LzM2MF9GXzQyMDk5/ODkxXzZTejlnNzBF/b0YyQVFob2dEWmlG/RTlVUTJuY2FuMVBr/LmpwZw" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Feedback</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+      
+      <div class="card2" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/zmu-elezsOzsMLDh0NFvXFPAT8ZikKDPkD_KgEuOEcI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudGhlbm91bnBy/b2plY3QuY29tL3Bu/Zy8xOTUyMzgtMjAw/LnBuZw" class="card-img-top2" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Chat</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+
+
+      <div class="card3" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/HohphPwAXxxpCZHiFQKrB_1VWoirnSfH1G2_KmduuCM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JlYXRlLnZpc3Rh/LmNvbS9hcGkvbWVk/aWEvc21hbGwvMTA0/MDQxNjQyL3N0b2Nr/LXBob3RvLWVtYWls/LWNvbnRhY3QtdXMt/aWNvbi1vbi1jb21w/dXRlci1rZXlib2Fy/ZA.jpeg" class="card-img-top3" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Contact Us</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+
+        <div class="card31" style="width: 18rem;">
+        <img src="https://imgs.search.brave.com/HohphPwAXxxpCZHiFQKrB_1VWoirnSfH1G2_KmduuCM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JlYXRlLnZpc3Rh/LmNvbS9hcGkvbWVk/aWEvc21hbGwvMTA0/MDQxNjQyL3N0b2Nr/LXBob3RvLWVtYWls/LWNvbnRhY3QtdXMt/aWNvbi1vbi1jb21w/dXRlci1rZXlib2Fy/ZA.jpeg" class="card-img-top3" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Contact Us</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Click Here</a>
+        </div>
+      </div>
+
+      
+
+      <footer>
+        <div class="social-icons">
+            <li><a href="https://www.facebook.com/PoliceRajasthan"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.youtube.com/@PoliceRajasthanOfficial"><i class="fab fa-youtube"></i></a></li>
+            <li><a href="https://www.instagram.com/PoliceRajasthan/"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://twitter.com/PoliceRajasthan"><i class="fab fa-twitter"></i></a></li>
+        </div>
+        <div class="bottom-bar">
+            <p>Copyright&copy; : 2023 Police. All rights reserved. </p>
+          </div>
+      </footer>
+
+</body>
+</html>
